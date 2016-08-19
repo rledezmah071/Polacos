@@ -9,6 +9,11 @@ import android.widget.Button;
 
 public class MainActivity extends Activity implements View.OnClickListener {
 
+
+    /*
+    * Test de github
+    *
+    * */
     Button botonCliente;
     Button botonProducto;
     Button botonSalir;
